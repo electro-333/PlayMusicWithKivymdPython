@@ -1,7 +1,6 @@
 
 __author__ = """ Badr """
-__date__ = """18/4/2021"""
-__version__ = """0.0.1"""
+__date__ = """20/4/2021"""
 
 from kivy.lang import Builder
 from kivy.uix.floatlayout import FloatLayout
